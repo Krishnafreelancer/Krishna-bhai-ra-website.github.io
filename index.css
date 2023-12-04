@@ -114,7 +114,6 @@ nav{
 }
 @media screen and (max-width: 1145px){
     .grid{
-        background: red;
         display: grid;
         grid-template-columns: 1fr;
         gap: 12px;
